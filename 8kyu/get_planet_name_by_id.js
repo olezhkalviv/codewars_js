@@ -1,9 +1,9 @@
 // Get Planet Name By ID
 // https://www.codewars.com/kata/515e188a311df01cba000003
 
-function getPlanetName(id){
+function getPlanetName(id) {
   var name;
-  switch(id){
+  switch (id) {
     case 1:
       name = 'Mercury';
       break;

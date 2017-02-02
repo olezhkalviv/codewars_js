@@ -3,6 +3,6 @@
 
 function wrap(value) {
   return {
-    "value": value 
+    "value": value
   };
 }

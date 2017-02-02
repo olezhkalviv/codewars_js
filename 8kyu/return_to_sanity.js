@@ -3,6 +3,6 @@
 
 function mystery() {
   var results =
-    {sanity: 'Hello'};
+    { sanity: 'Hello' };
   return results;
 }
